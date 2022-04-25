@@ -1,0 +1,80 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+    position: absolute;
+    left: 45%;
+    top: 2%;
+    font-size: 50px;
+    color: crimson;
+}
+span{
+    position: absolute;
+    left: 40% ;
+    top: 10%;
+    font-size: 100px;
+    color: crimson;
+}
+
+ .image1{
+    position: absolute;
+    left: 25%;
+    top: 29%;
+    border-radius: 20px;
+       
+    
+
+ }
+.image2{
+    position: absolute;
+    left: 1%;
+    top: 1%;
+    width: 100px;
+    height: 120px;
+
+    
+
+} 
+ .image3{
+    position: absolute;
+  
+    left: 2%;
+    top: 120%;
+    border-radius: 20px;
+} 
+.food{
+    position: absolute;
+    left: 70%;
+    top: 129%;
+    font-size: 50px;
+    color: crimson;
+}
+
+.image5{
+    position: absolute;
+    left:60%;
+    top: 230%;
+    
+
+}  
+.food2{
+    position: absolute;
+    left: 20%;
+    top: 240%;
+    font-size: 50px;
+    color: crimson;
+}
+button{
+    position: absolute;
+    left:50%;
+    top: 310%;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    transition: 0.7s;
+}
+button:hover{
+    background-color: crimson;
+    color: white;
+}

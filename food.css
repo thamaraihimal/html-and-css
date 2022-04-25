@@ -1,0 +1,267 @@
+body{
+    background-color: rgba(210, 200, 200, 0.301);
+
+}
+p{
+    position: absolute;
+    left:6%;
+    /* top: 5%; */
+}
+h1{
+    color: green;
+    font-size: 350%;
+    position: absolute;
+    left: 7%;
+    top: 15%;
+}
+h2{
+    position: absolute;
+    left:7% ;
+    top: 29% ;
+}
+button{
+    position: absolute;
+    left: 7%;
+    top: 45%;
+    border: 2px solid green;
+    padding: 15px;
+    color: white;
+    background-color: green;
+    border-radius: 10px;
+    transition: 0.4s;
+}
+button:hover{
+    background-color:white;
+    color: black;
+}
+.image1{
+    position: absolute;
+    left: 50%;
+    top: 25%;
+    border-radius: 50%;
+    width: 500px;
+    height: 300px;
+    background-color: #000;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+}
+.image2{
+    position: absolute;
+    left: 9%;
+    top: 100%;
+    border-radius:30% ;
+    width: 600px;
+    height: 500px;
+    background-color: #000;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+}
+.rendu1{
+    color:  green;
+    position: absolute;
+    font-size: 350%;
+    left: 60%;
+    top: 95%;
+}
+.rendu2{
+    position: absolute;
+    left:60% ;
+    top: 110% ;
+}
+span{
+    color: rgb(77, 65, 65);
+    font-size:15px ;
+}
+.button1{
+    position: absolute;
+    left: 60%;
+    top: 135%;
+    border: 2px solid green;
+    padding: 15px;
+    color: white;
+    background-color: green;
+    border-radius: 10px;
+}
+.button1:hover{
+    background-color:white;
+    color: black;
+}
+.rendu3{
+    color: green;
+    position: absolute;
+    left:50%;
+    top:190% ;
+}
+.rendu4{
+    position: absolute;
+    left: 45%;
+    top: 195%;
+}
+h3{
+     position: absolute;
+    left: 15%;
+    top: 230%;
+}
+.rendu5{
+    position: absolute;
+    left: 45%;
+}
+.rendu6{
+    position: absolute;
+    left: 75%;
+}
+.rendu7{
+    color: green;
+    position: absolute;
+    left: 45%;
+    top:270%;
+}
+.rendu8{
+   
+        position: absolute;
+        left: 42%;
+        top: 275%;
+}
+.image3{
+    position: absolute;
+    left: 40%;
+    top: 295%;
+    width: 280px;
+    height: 180px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+}
+.image4{
+    position: absolute;
+    left: 15%;
+    top: 295%;
+    width: 280px;
+    height: 180px;
+    border-radius: 10px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+}
+.image5{
+    position: absolute;
+    left: 70%;
+    top: 295%;
+    width: 280px;
+    height: 184px;
+    border-radius: 10px;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5);
+}
+.image6{
+    position: absolute;
+    left: 5%;
+    top: 350%;
+    width: 700px;
+    height: 600px; 
+    border-radius: 20px;
+    border-radius: 10px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+}
+.rendu9{
+    color: green;
+    position: absolute;
+    left: 65%;
+    top:360%;
+}
+.rendu10{
+    position: absolute;
+    left: 65%;
+    top: 365%;
+}
+.button3{
+    position: absolute;
+    left: 65%;
+    top: 395%;
+    border: 2px solid rgba(35, 34, 34, 0.555);
+    padding: 15px;
+    color: black;
+    background-color: rgba(255, 255, 255, 0.256);
+    border-radius: 5px;
+}
+.button3:hover{
+    background-color:black;
+    color: white;
+}
+
+.button2{
+    position: absolute;
+    left: 75%;
+    top: 395%;
+    border: 2px solid rgba(35, 34, 34, 0.555);
+    padding: 15px;
+    color: black;
+    background-color: rgba(255, 255, 255, 0);
+    border-radius: 5px;
+    transition: 0.4s;
+}
+.button2:hover{
+    background-color:black;
+    color: white;
+}
+.rendu11{
+    
+    color: black;
+    font-size: 350%;
+    position: absolute;
+    left: 7%;
+    top: 450%;
+}
+.button4{
+    position: absolute;
+    left: 70%;
+    top: 457%;
+    border: 2px solid green;
+    padding: 15px;
+    color: white;
+    background-color: green;
+    border-radius: 6px;
+}
+.button4:hover{
+    background-color:white;
+    color: black;
+}
+
+.rendu12{
+    position: absolute;
+    left: 15%;
+    top: 500%;
+    font-size: 45px;
+}
+.rendu13{
+    position: absolute;
+    left: 39%;
+    top: 500%;
+    font-size: 45px;
+}
+.rendu14{
+    position: absolute;
+    left: 65%;
+    top: 500%;
+    font-size: 45px;
+}
+ul{
+    float: right; 
+}
+ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 5px;
+    
+}
+ul li a{
+    text-decoration: none;
+    color:black;
+    /* border-style:  solid; */
+    /* border-color: rgb(255, 255, 255); */
+    margin: 25px;
+    border: 2px solid green;
+    border-radius: 4px;
+    padding: 10px;
+    transition: 0.5s
+}
+li a:hover{
+    background-color: black;
+    color: white;
+}

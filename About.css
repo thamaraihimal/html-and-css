@@ -1,0 +1,19 @@
+body{
+    background-image: url(about-us-page-examples.png);
+}
+button{
+    position: absolute;
+    left: 7%;
+    top: 55%;
+    border: 2px solid green;
+    padding: 13px;
+    color: white;
+    background-color: green;
+    border-radius: 4px;
+    transition: 0.4s;
+    text-decoration: none;
+}
+button:hover{
+    background-color: white;
+    color: black;
+}
